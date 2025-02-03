@@ -15,9 +15,13 @@ seguir:
    - Obtido via Lei de Acesso à Informação.
    - Protocolo: 374742123223 atendido pelo Governo do Estado de São Paulo.
 
-4. **Internações por Agressão – Ministério da Saúde**
+4. **Endereços das Delegacias de Polícia – Secretaria de Segurança Pública do Estado de São Paulo**
+   - Obtido via Lei de Acesso à Informação.
+   - Protocolo: 284012316039 atendido pelo Governo do Estado de São Paulo.
+
+5. **Internações por Agressão – Ministério da Saúde**
    - Microdados georreferenciados disponíveis em: [Centro da Metrópole - Saúde](https://centrodametropole.fflch.usp.br/pt-br/download-de-dados)
 
-5. **Setores Censitários da Região Metropolitana – IBGE**
+6. **Setores Censitários da Região Metropolitana – IBGE**
    - Dados georreferenciados disponíveis em: [Centro da Metrópole - Censo Demográfico 2000](https://centrodametropole.fflch.usp.br/pt-br/download-de-dados)
 
