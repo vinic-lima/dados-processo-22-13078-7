@@ -1,8 +1,7 @@
 # Dados para o projeto 22-13078-7
 Informações para o acesso às bases de dados utilizadas no projeto de pós-doutorado " Efeitos do combate à violência doméstica sobre o mercado de trabalho" financiado pela FAPESP no processo de nº 22/13078-7.
 
-Os conjuntos de dados que serão usados no trabalho são públicos e estão listados a
-seguir:
+Os conjuntos de dados públicos usados no trabalho estão listados a seguir:
 
 1. **Pesquisa Emprego e Desemprego – Fundação SEADE**
    - Microdados disponíveis em: [SEADE Microdados](https://produtos2.seade.gov.br/produtos/microdados/)
