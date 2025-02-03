@@ -24,3 +24,9 @@ Os conjuntos de dados públicos usados no trabalho estão listados a seguir:
 6. **Setores Censitários da Região Metropolitana – IBGE**
    - Dados georreferenciados disponíveis em: [Centro da Metrópole - Censo Demográfico 2000](https://centrodametropole.fflch.usp.br/pt-br/download-de-dados)
 
+O trabalho utiliza ainda a seguinte base de dados que não é pública:
+
+7. **Boletins de Ocorrência de Violência Doméstica – Secretaria de Segurança Pública do Estado de São Paulo**
+   - Dados confidenciais contendo endereço de ocorrência.   
+   - Obtido via Lei de Acesso à Informação mediante acordo de confidencialidade.
+   - Protocolo: 693312310375 atendido pelo Governo do Estado de São Paulo.
